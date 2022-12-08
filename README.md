@@ -16,7 +16,6 @@
 
 * HTML
 * CSS
-* Bootstrap
 * Java Script
 
 
