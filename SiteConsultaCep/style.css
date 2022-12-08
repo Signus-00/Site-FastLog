@@ -1,0 +1,145 @@
+/* Sempre que tiver espaços no nome da class colocar o . no lugar | Corrigir a cor do background */
+.navbar.navbar-expand-lg.bg-light {
+    background-color: #d7cec7 !important;
+}
+
+.logo {
+    margin-right: 60%;
+}
+
+/* Colocar a font-family e ajustar o tamanho da fonte */
+.navbar-brand {
+   
+    color: #b37d4e !important;
+}
+
+/* Duração do carrosel */
+.carousel-item {
+    transition-duration: 2s;
+}
+
+/* Div text */
+h1 {
+    text-align: center;
+    margin-top: 2% !important;   
+}
+
+/* Estilização do botton */
+.btn.btn-primary{
+margin-right: 5px; 
+color:#565656;
+font-weight: 600;
+background-color: #d7cec7; 
+border-color: #d7cec7; 
+--bs-btn-active-bg:#b37d4e;
+--bs-btn-active-border-color: #b37d4e; 
+--bs-btn-hover-color: #fff;
+--bs-btn-hover-bg: #b37d4e;
+--bs-btn-hover-border-color: #b37d4e;
+}
+
+
+/* Menu de Login */
+.dropdown-menu{
+    width: 130%;
+}
+
+/* Container */
+.container.text-start{
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    padding: 6%;
+    border-radius: 15px;
+}
+
+.col{
+    border-radius: 15px;
+    margin-left: 5%;    
+}
+
+/* gifts do container */
+.gift-truck{
+   border-radius: 15px;
+    width: 80%;
+    margin-bottom: 11%; 
+    margin-left: 9%;
+}
+
+.gift-routes{
+    margin-left: 9%;
+    margin-bottom: 11%;
+    margin-top: 3%;
+    border-radius: 15px;
+    width: 80%;
+}
+
+.gifs-rastreio{
+    border-radius: 15px;
+    width: 80%;  
+    margin-top: 27%; 
+    margin-bottom: 11%; 
+    margin-left: 9%;
+}
+
+
+/* footer */
+
+.col-md-4.d-flex.align-items-center{
+    margin-left: 7%;
+    margin-top: 1%;
+}
+
+.nav.col-md-4.justify-content-end.list-unstyled.d-flex{
+margin-right: 3%;
+margin-top: 1.6%;
+}
+
+/* Painel do usuário */
+
+.dropdown-menu.p-4-consulta.show{
+    width: 10%;
+}
+
+.bi.bi-person-circle{
+    width: 150%;
+    margin-top: 2%;
+    margin-left: -24%;
+}
+
+.user-name{
+    margin-top: 2%;
+    margin-left: 30%;
+    color: #6c757d;
+}
+
+#sair{
+    margin-top: 2%;
+    margin-left: 30%; 
+    margin-bottom: 2%;  
+}
+
+
+
+/* painel de entregas */
+h3{
+    margin-top: 2% !important;
+    margin-bottom: 2% !important;
+    text-align: center;
+}
+
+.dashboard{
+border-radius: 10px;
+ border-style: solid;
+ border-color: 1px #6c757d;  
+ margin-top: 5%;
+ margin-left: 2%;
+ margin-right: 2%; 
+}
+
+.btn.btn-outline-success{
+margin-left: 2%;
+}
+
+.dropdown-menu.p-4-incluir{
+    width: 60%;
+}
